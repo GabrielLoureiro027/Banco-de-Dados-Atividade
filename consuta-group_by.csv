@@ -1,0 +1,20 @@
+id,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary
+4,Charmander,Fire,,309,39,52,43,60,50,65,1,False
+347,Anorith,Rock,Bug,355,45,95,50,40,50,75,3,False
+130,"GyaradosMega Gyarados",Water,Dark,640,95,155,109,70,130,81,1,False
+6,"CharizardMega Charizard X",Fire,Dragon,634,78,130,111,130,85,100,1,False
+170,Chinchou,Water,Electric,330,75,38,38,56,56,67,2,False
+39,Jigglypuff,Normal,Fairy,270,115,45,20,45,25,20,1,False
+62,Poliwrath,Water,Fighting,510,90,95,95,70,90,70,1,False
+228,Houndour,Dark,Fire,330,45,60,30,80,50,65,2,False
+6,Charizard,Fire,Flying,534,78,84,78,109,85,100,1,False
+292,Shedinja,Bug,Ghost,236,1,90,45,30,30,40,3,False
+46,Paras,Bug,Grass,285,35,70,55,45,55,25,1,False
+31,Nidoqueen,Poison,Ground,505,90,92,87,75,85,76,1,False
+87,Dewgong,Water,Ice,475,90,70,80,70,95,70,1,False
+667,Litleo,Fire,Normal,369,62,50,58,73,54,72,6,False
+1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,1,False
+79,Slowpoke,Water,Psychic,315,90,65,65,40,40,15,1,False
+111,Rhyhorn,Ground,Rock,345,80,85,95,30,30,25,1,False
+81,Magnemite,Electric,Steel,325,25,35,70,95,55,45,1,False
+138,Omanyte,Rock,Water,355,35,40,100,90,55,35,1,False
